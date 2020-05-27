@@ -11,3 +11,7 @@ div{
     height:300px;
     border:10 px solid black;
 }
+ul
+{
+    list-style-type: lower-greek;
+}
