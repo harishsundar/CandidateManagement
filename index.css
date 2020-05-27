@@ -2,4 +2,6 @@ p
 {
     background-color: blue;
     font-family: fantasy;
+    color:white;
+    border:5px red 5px;
 }
