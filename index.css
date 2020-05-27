@@ -3,5 +3,11 @@ p
     background-color: blue;
     font-family: fantasy;
     color:white;
-    border:5px red 5px;
+    border:5px solid red ;
+}
+div{
+    background-color: turquoise;
+    width: 200px;
+    height:300px;
+    border:10 px solid black;
 }
